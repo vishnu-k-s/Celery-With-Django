@@ -6,9 +6,13 @@ OVERVIEW
 
 
 SETUP
+
         * Create a project folder and move to that folder
+        
         * Create a virtual environment 
+        
         * Activate virtual environment
+        
         * Install all dependencies
 
 
