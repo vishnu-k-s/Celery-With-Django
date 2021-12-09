@@ -17,6 +17,9 @@ SETUP
 
 
 HOW TO RUN
+        
         * Run django server
+        
         * Run celery worker
+        
                 celery -A celery_project.celery worker -l info
