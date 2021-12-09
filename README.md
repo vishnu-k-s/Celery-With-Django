@@ -1,6 +1,7 @@
                             CELERY WITH DJANGO
 
 OVERVIEW
+        
         This django project demonstrate how to use celry with django
 
 
