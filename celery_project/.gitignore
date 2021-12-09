@@ -1,0 +1,7 @@
+/celery_with_django/cdjvenv
+
+.env
+info.txt
+db.sqlite3
+
+*migrations*
