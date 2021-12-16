@@ -13,6 +13,8 @@ SETUP
         
         * Activate virtual environment
         
+        * Clone the repository
+        
         * Install all dependencies
 
 
